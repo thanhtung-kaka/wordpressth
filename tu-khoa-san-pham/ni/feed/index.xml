@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ni &#8211; Nike T&amp;T</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ni/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thanhtung-kaka.github.io/wordpressth</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:25:53 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Nike Giày thể thao Air Vapormax Plus</title>
+		<link>https://thanhtung-kaka.github.io/wordpressth/product/nike-giay-the-thao-air-vapormax-plus/</link>
+					<comments>https://thanhtung-kaka.github.io/wordpressth/product/nike-giay-the-thao-air-vapormax-plus/#respond</comments>
+		
+		<dc:creator><![CDATA[Lê Thanh Tùng]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 10:50:43 +0000</pubDate>
+				<guid isPermaLink="false">https://thanhtung-kaka.github.io/wordpressth/?post_type=product&#038;p=324</guid>
+
+					<description><![CDATA[NIKE AO4550002 BLACK / BLACK / BLEACHED AQUA cao su / Polyester / Polyester]]></description>
+										<content:encoded><![CDATA[<div class="_1b910b _ab46e0">
+<h4 class="_b4693b _61a1ae _9898cd">Thành phần</h4>
+<p class="_aa69b4">Lớp Lót: Polyester 100%</p>
+<p class="_aa69b4">Đế: Cao Su 100%</p>
+<p class="_aa69b4">Bên Ngoài: Polyester 100%</p>
+</div>
+<div class="_1b910b _ab46e0">
+<p class="_e8ab0c _b4693b" data-tstid="designerStyleId"><bdi>ID kiểu thiết kế</bdi>: <span class="_3687c0 _b4693b">AO4550002</span></p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thanhtung-kaka.github.io/wordpressth/product/nike-giay-the-thao-air-vapormax-plus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

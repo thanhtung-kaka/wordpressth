@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AF1 &#8211; Nike T&amp;T</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/af1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thanhtung-kaka.github.io/wordpressth</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Oct 2021 00:26:44 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>GIÀY NAM NIKE AIR FORCE 1 THẤP THƯỜNG</title>
+		<link>https://thanhtung-kaka.github.io/wordpressth/product/giay-nam-nike-air-force-1-thap-thuong/</link>
+					<comments>https://thanhtung-kaka.github.io/wordpressth/product/giay-nam-nike-air-force-1-thap-thuong/#respond</comments>
+		
+		<dc:creator><![CDATA[Lê Thanh Tùng]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 01:16:05 +0000</pubDate>
+				<guid isPermaLink="false">https://thanhtung-kaka.github.io/wordpressth/?post_type=product&#038;p=190</guid>
+
+					<description><![CDATA[Da nguyên tấm cao cấp phía trên của Air Force 1 Low Các lỗ để tăng cường thông gió Cổ áo có đệm để vừa khít và an toàn Đế giữa bằng bọt với bộ Nike Air để đệm nhẹ Các điểm xoay ở bàn chân trước cho phép chuyển đổi mượt mà theo mọi hướng Đế ngoài bằng cao su không đánh dấu cho lực kéo bền Nike Air Force 1 Low được nhập khẩu]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Da nguyên tấm cao cấp phía trên của Air Force 1 Low</li>
+<li>Các lỗ để tăng cường thông gió</li>
+<li>Cổ áo có đệm để vừa khít và an toàn</li>
+<li>Đế giữa bằng bọt với bộ Nike Air để đệm nhẹ</li>
+<li>Các điểm xoay ở bàn chân trước cho phép chuyển đổi mượt mà theo mọi hướng</li>
+<li>Đế ngoài bằng cao su không đánh dấu cho lực kéo bền</li>
+<li>Nike Air Force 1 Low được nhập khẩu</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thanhtung-kaka.github.io/wordpressth/product/giay-nam-nike-air-force-1-thap-thuong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
