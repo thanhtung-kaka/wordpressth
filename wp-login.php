@@ -90,7 +90,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://thanhtung-kaka.github.io/wordpressth/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"bf2b84a488"};
+var userProfileL10n = {"user_id":"0","nonce":"c702412df4"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
